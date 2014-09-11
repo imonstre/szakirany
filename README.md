@@ -1,0 +1,4 @@
+szakirany
+=========
+
+szakiranyos projekt
